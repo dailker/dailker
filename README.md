@@ -90,10 +90,10 @@
 
 <p align="center">
   <a href="mailto:contact@theilker.com">
-    <img src="https://img.shields.io/badge/Email-ilker.ozturk%40example.com-ff2d55?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-contact%40theilker.com-ff2d55?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/ilkeroztbm">
-    <img src="https://img.shields.io/badge/LinkedIn-ilker--ozturk-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-ilkeroztbm-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
