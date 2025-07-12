@@ -21,21 +21,6 @@
 
 ---
 
-## 🌟 About Me
-
-- 🎓 **Education**:
-  - **Humber College, Toronto, ON** (Jan 2024 - May 2025)  
-    *Associate's Degree in Computer Programming*  
-    GPA: 81.58 | 3x Dean's Honour List  
-    **Highlights**: Advanced Database Programming (100%), Modern Web Technologies (92%), Web Application Development (91%)
-  - **Ondokuz Mayıs Üniversitesi, Samsun, Türkiye** (Sep 2022 - Dec 2023)  
-    *Coursework in Internet and Network Technologies*  
-    Focused on web and network tech foundations
-- 💡 **Mission**: To create seamless, scalable, and impactful digital experiences.
-- ⚡ **Fun Fact**: I type at a blazing 98 WPM and thrive in fast-paced, collaborative environments!
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
